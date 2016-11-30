@@ -32,6 +32,11 @@
 ## Plugin-specific files:
 
 # IntelliJ
+
+# Node js
+node_modules/
+bower_components/
+.tmp/
 /out/
 
 # mpeltonen/sbt-idea plugin
